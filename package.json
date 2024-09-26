@@ -6,7 +6,8 @@
     "jade": "^1.11.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "npm install"
   },
   "description": "[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cf-sample-app-nodejs)](https://api.reuse.software/info/github.com/SAP-samples/cf-sample-app-nodejs)",
   "main": "server.js",
